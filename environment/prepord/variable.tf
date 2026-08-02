@@ -1,0 +1,5 @@
+variable "rgsmod" {}
+variable "virtual_network" {}
+variable "subnet" {}
+variable "public_ip" {}
+variable "vm" {}
