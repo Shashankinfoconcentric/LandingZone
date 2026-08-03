@@ -3,6 +3,10 @@ rgsmod = {
     name     = "Rgdisney"
     location = "central india"
   }
+   rg2 = {
+    name     = "Rgdisneyworld"
+    location = "central india"
+  }
 }
 virtual_network = {
   vnet1 = {
